@@ -1,4 +1,4 @@
-declare module 'fetch-retry' {
+declare module '@kasadev/fetch-retry' {
   export type FetchLibrary = (input: any, init?: any) => Promise<any>;
 
   export type RequestDelayFunction<F extends FetchLibrary> = (
