@@ -1,5 +1,5 @@
 {
-  "name": "fetch-retry",
+  "name": "@kasadev/fetch-retry",
   "version": "6.0.0",
   "description": "Extend any fetch library with retry functionality",
   "repository": "https://github.com/jonbern/fetch-retry.git",
